@@ -43,7 +43,7 @@ export default class Contact extends React.Component {
                   </p>
                   <input type="hidden" name="form-name" value="contactForm" />
                   <p className="form-row">
-                    <button type="submit" className="button">Send Message</button>
+                    <button type="submit" className="button">Send</button>
                   </p>
                 </form>
               </div>
