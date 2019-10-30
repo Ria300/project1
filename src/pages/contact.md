@@ -1,10 +1,10 @@
 ---
-title: Get in Touch
+
 img_path: images/index.jpeg
 menus:
   main:
     title: Contact
-    weight: 6
+    weight: 4
 template: contact
 ---
 
